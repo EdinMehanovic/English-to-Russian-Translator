@@ -81,7 +81,3 @@ def main_bus(repeat = 'y'):
 		main_bus(repeat)
 		
 main_bus()
-
-# Edin Mehanovic 11/25/2023
-# Challenges I faced were how to use the .functions, ie: .lower(), .strip(), .split(), etc.. I'm still trying to grasp how to properly use text files 
-# I have a better understanding of the .functions, as well as how to properly read a text file. 
