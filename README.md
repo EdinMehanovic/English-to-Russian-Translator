@@ -1,4 +1,4 @@
-# English-to-Russian-Translator
+# English to Russian Translator
 ## Description
 #### This program allows the user to type in any English phrase and translates it into its Russian counterpart. There are cases in which you type an English word which translates to '???' but this happens because of the .txt file we use for the program. You will also get a '???' if you give the program a word that does not exist. 
 ## How to View
